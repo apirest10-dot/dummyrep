@@ -1,0 +1,26 @@
+[
+{
+"Issue_Types":"10001",
+"Project_ID":"10000",
+"Reporter":"62be8ebeed036549273ea91f",
+"message":"Creating new Task using Json"
+},
+{
+"Issue_Types":"10002",
+"Project_ID":"10000",
+"Reporter":"62be8ebeed036549273ea91f",
+"message":"Creating new Bug using Json"
+},
+{
+"Issue_Types":"10003",
+"Project_ID":"10000",
+"Reporter":"62be8ebeed036549273ea91f",
+"message":"Creating new Story using Json"	
+},
+{
+"Issue_Types":"10004",
+"Project_ID":"10000",
+"Reporter":"62be8ebeed036549273ea91f",
+"message":"Creating new Epic using Json"
+}
+]

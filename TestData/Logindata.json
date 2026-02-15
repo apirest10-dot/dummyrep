@@ -1,0 +1,24 @@
+[
+{
+"url" : "http://orangehrm.qedgetech.com/",
+"username":"Admin",
+"password":"Qedge123!@#",
+"incorrectPassword" :"ranga"
+
+},
+{
+    "url" : "http://orangehrm.qedgetech.com/",
+"username":"Admin",
+"password":"Qedge123!@#",
+"incorrectPassword" :"ranga"
+
+},
+{
+    "url" : "http://orangehrm.qedgetech.com/",
+"username":"Admin",
+"password":"Qedge123!@#",
+"incorrectPassword" :"ranga"
+
+}
+
+]
